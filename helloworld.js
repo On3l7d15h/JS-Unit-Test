@@ -1,6 +1,6 @@
 // HELLO WORLD CODE
 const helloWorld = () => {
-    return "Hello World";
+    return "Hello World!";
 }
 
 module.exports = helloWorld;
